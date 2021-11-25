@@ -1,3 +1,7 @@
+4The Barabási-Albert model
+贺永花2020213053036
+2021/10/15
+
 一、	简介
 
 1999年10月15日Science杂志刊登了巴拉巴西和阿尔伯特的文章，他们提出了通过网络生长和偏好依附的模型，
@@ -77,4 +81,3 @@ transitivity(random)
 
 [1]Network an Introduction M.E.J.Newman
 [2]Albert-Laszlo Barabasi.Network Science[M].2014
-
